@@ -1,0 +1,8 @@
+# Node modules for both frontend and backend
+Psi-frontend/node_modules/
+backend/node_modules/
+
+# Environment files
+Psi-frontend/.env
+backend/.env
+.env
